@@ -1,0 +1,21 @@
+#### These instructions are for a specific group of people.
+
+1. Create a react app using the "create-react-app" command in the terminal inside vsCode
+
+Syntax is: 
+
+'npx create-react-app my-app' You can replace 'my-app' with any name.
+
+2. Go into the directory where that app is now installed and copy the file named 'node_modules'.
+ 
+ Past that file somehere you'll remember.
+
+ 3. Download the source files for this project, by either downloading the zip file or typing in your terminal the following command.
+    'git clone <URL>' and replace <URL> with the URL with the URL of this repository.
+
+4. After that go into the directory where the files of this project are saved and past the 'node_modules' file with them.
+
+5. Now, just drag and drop the project into vsCode and open the terminal. In the terminal type the command:
+    'npm install'
+
+That should install the dependencies for the project and it should run normally.
